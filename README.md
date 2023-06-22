@@ -1,0 +1,2 @@
+# Handwritten-Letter-and-Digit-Recognition-System
+A python program developed using Jupyter Notebook for easy troubleshooting. This program recognizes handwritten letters and digits provided by the user on a whiteboard UI with percentage accuracies provided for the predictions made from the trained Convolutional Neural Network (CNN). The CNN is trained using a merge of Kaggle's A-Z Handwritten Character dataset and MNIST's digit dataset in data pre-processing.
